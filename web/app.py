@@ -1,5 +1,5 @@
 """
-John Doe's Flask API.
+Freddy Lopez's Flask API.
 """
 
 from flask import Flask, abort, send_from_directory, render_template, request
